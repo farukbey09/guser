@@ -28,6 +28,9 @@ wheels/
 # Git User Manager
 .git-user-manager/
 
+# Homebrew tap (separate repository)
+homebrew-tap/
+
 # IDE
 .vscode/
 .idea/
